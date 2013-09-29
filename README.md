@@ -1,7 +1,7 @@
 gosu-fontello
 =============
 
-Font icons from fontello.com in ruby gosu
+Drawing font icons from [Fontello.com](http://fontello.com "Fontello") in ruby gosu
 
 ## Example usage
     
